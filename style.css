@@ -4,7 +4,7 @@ body {
 }
 
 .weather-app {
-  background: white;
+  background: linear-gradient(to right, rgb(200, 238, 177), rgb(113, 225, 235));
   max-width: 600px;
   margin: 45px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -24,7 +24,7 @@ header {
   padding: 15px 20px;
 }
 .search-form-button {
-  background-color: green;
+  background-color: #1eaef7;
   padding: 15px 20px;
   border: none;
   border-radius: 6px;
